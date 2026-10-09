@@ -1,0 +1,7 @@
+customer_id,name,email,city,state,signup_date
+C001,Sri,sri@gmail.com,Hyderabad,Telangana,2026-01-15
+C002,Rahul,rahul@gmail.com,Chennai,Tamil Nadu,2026-02-10
+C003,Anu,anu@gmail.com,Bangalore,Karnataka,2026-03-05
+C004,Kiran,kiran@gmail.com,Hyderabad,Telangana,2026-04-20
+C005,Meena,meena@gmail.com,Pune,Maharashtra,2026-05-12
+C006,Arjun,arjun@gmail.com,Delhi,Delhi,2026-10-06

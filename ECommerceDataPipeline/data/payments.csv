@@ -1,0 +1,7 @@
+payment_id,order_id,payment_method,payment_status,payment_date
+PAY001,O101,UPI,Paid,2026-09-01
+PAY002,O102,Card,Paid,2026-09-02
+PAY003,O103,UPI,Paid,2026-09-03
+PAY004,O104,Card,Paid,2026-09-04
+PAY005,O105,NetBanking,Paid,2026-09-05
+PAY006,O106,UPI,Refunded,2026-09-06
